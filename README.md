@@ -4,6 +4,7 @@ Je travaille sur le mod [ProjectS][projects] et le [Puffermod][puffermod]
 
 [<img align="left" alt="minemobs | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="minemobs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="minemobs | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/youtube.svg" />][youtube]
 <br />
 Mes outils :
 
