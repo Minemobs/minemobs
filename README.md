@@ -3,6 +3,8 @@ J'apprends le java et le c# .
 Je travaille sur le mod [ProjectS][projects] et le [Puffermod][puffermod]
 
 [<img align="left" alt="minemobs | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="minemobs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/twitter.svg" />][twitter]
+
 
 Mes outils :
 
