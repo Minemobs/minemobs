@@ -1,6 +1,6 @@
 ### Salut , Je m'appelle minemobs 👋
 J'apprends le java et le c# .
-Je travaille sur le mod [PufferTweaks][projecttweaks] et le [Puffermod2][puffermod2]
+Je travaille sur le mod [PufferTweaks][puffertweaks] et le [Puffermod2][puffermod2]
 
 [<img align="left" alt="minemobs | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="minemobs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/twitter.svg" />][twitter]
