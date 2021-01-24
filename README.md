@@ -1,6 +1,6 @@
 ### Salut , Je m'appelle minemobs 👋
 J'apprends le java et le c# .
-Je travaille sur le mod [ProjectS][projects] et le [Puffermod][puffermod]
+Je travaille sur le mod [PufferTweaks][projecttweaks] et le [Puffermod2][puffermod2]
 
 [<img align="left" alt="minemobs | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="minemobs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/twitter.svg" />][twitter]
@@ -31,7 +31,7 @@ Mes outils :
 [intellij]: https://www.jetbrains.com/idea/
 [java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [github]: https://www.github.com/Minemobs
-[Puffermod]: https://github.com/PufferTeam/Puffermod
-[ProjectS]: https://www.github.com/Minemobs/ProjectS
+[Puffermod2]: https://github.com/PufferTeam/Puffermod2
+[puffertweaks]: https://github.com/PufferTeam/PufferTweaks
 [vscode]: https://code.visualstudio.com/
 [gmail]: mailto:minemobs.ytb@gmail.com
