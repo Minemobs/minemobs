@@ -36,7 +36,7 @@ Les langages que je connais :
 
 
 <img align="left" alt="Mes stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minemobs&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Mes stats" src="https://github-readme-stats.vercel.app/api?username=minemobs&show_icons=true&hide_border=true&theme=radical"/>
+<img align="right" alt="Mes stats" src="https://github-readme-stats-knffx0wp4-minemobs.vercel.app/api?username=minemobs&show_icons=true&hide_border=true&theme=radical"/>
 
 [twitter]: https://twitter.com/minemobs_
 [discord]: https://discord.gg/vf7FnAG
