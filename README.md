@@ -8,8 +8,9 @@ Je travaille sur le mod [PufferTweaks][puffertweaks] et le [Puffermod2][puffermo
 [<img align="left" alt="Contact mail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 <br />
 <br />
+
 ---
-Mes outils :
+## Mes outils :
 
 [<img align="left" alt="GitHub" width="75px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Intellij" width="75px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][intellij]
@@ -22,7 +23,7 @@ Mes outils :
 
 ---
 
-Les langages que je connais :
+## Les langages que je connais :
 
 [<img align="left" alt="Java" width="100px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />][java]
 [<img align="left" alt="CSharp" width="100px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][csharp]
@@ -33,10 +34,17 @@ Les langages que je connais :
 <br />
 
 ---
+## Quelques stats inutiles
 
+<img alt="Mes stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minemobs&show_icons=true&hide_border=true&theme=radical" />
+<img alt="Mes stats" src="https://github-readme-stats-knffx0wp4-minemobs.vercel.app/api?username=minemobs&show_icons=true&hide_border=true&theme=radical"/>
 
-<img align="left" alt="Mes stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minemobs&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Mes stats" src="https://github-readme-stats-knffx0wp4-minemobs.vercel.app/api?username=minemobs&show_icons=true&hide_border=true&theme=radical"/>
+---
+## Mon Profile
+
+<div align="center">
+   <a href="https://github.com/minemobs/my-profile" target="_blank"><img src="https://i.imgur.com/88uksWI.png" align="center" /></a>
+</div>
 
 [twitter]: https://twitter.com/minemobs_
 [discord]: https://discord.gg/vf7FnAG
