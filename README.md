@@ -43,7 +43,7 @@ Je travaille sur le mod [PufferTweaks][puffertweaks] et le [Puffermod2][puffermo
 ## Mon Profile
 
 <div align="center">
-   <a href="https://github.com/minemobs/my-profile" target="_blank"><img src="https://i.imgur.com/88uksWI.png" align="center" /></a>
+   <a href="https://minemobs.github.io/my-profile/" target="_blank"><img src="https://i.imgur.com/88uksWI.png" align="center" /></a>
 </div>
 
 [twitter]: https://twitter.com/minemobs_
