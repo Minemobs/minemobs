@@ -1,6 +1,6 @@
 ### Salut, Je m'appelle minemobs 👋
 J'apprends le java et le c# .
-Je travaille sur le mod [PufferTweaks][puffertweaks] et le [Puffermod2][puffermod2]
+Je travaille principalement sur [SimpleBot](https://github.com/TheSimpleTeam/SimpleBot)
 
 [<img align="left" alt="minemobs | Discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord]
 [<img align="left" alt="minemobs | Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
